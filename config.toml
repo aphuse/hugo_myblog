@@ -1,0 +1,41 @@
+baseurl = "http://blog.aphuse.tk/"
+languageCode = "zh-cn"
+title = "aphuse blog"
+theme = "greyshade"
+hasCJKLanguage = true
+
+[author]
+  name = "aphuse"
+  email = "xiezhifu@gmail.com"
+
+[params]
+  description = "aphuse 个人博客"
+#  disqusShortname = "aphuse"
+#  themeColor = "theme-base-0c"
+
+  # email_md5 = "c89d7bf1b7796255b10f2c528f4ca4a2"
+
+# social links
+  googleplus_user = "107395644201321544012"
+  github_user = "aphuse"
+
+# Disqus Comments
+  disqus_short_name = "aphuse"
+  disqus_show_comment_count = true
+
+# RSS / Email (optional) subscription links (change if using something like Feedburner)
+  subscribe_rss = "/index.xml"
+  subscribe_email = ""
+
+# share links
+  # facebook_like = true
+  # twitter_tweet_button = true
+  # google_plus_one = "true"
+  # addthis_profile_id = ""
+
+# google analytics
+  # google_analytics_tracking_id = ""
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
