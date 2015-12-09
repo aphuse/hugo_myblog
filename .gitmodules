@@ -1,0 +1,3 @@
+[submodule "themes/greyshade"]
+	path = themes/greyshade
+	url = https://github.com/aphuse/greyshade.git
