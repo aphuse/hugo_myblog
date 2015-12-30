@@ -1,4 +1,4 @@
-baseurl = "http://blog.aphuse.tk/"
+baseurl = "http://aphuse.github.io/"
 languageCode = "zh-cn"
 title = "aphuse blog"
 theme = "greyshade"
